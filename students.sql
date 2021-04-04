@@ -1,0 +1,13 @@
+-- SELECT * FROM w3schools.students;
+
+-- insert into students(name, age, gender)
+-- value
+-- ("junaid",10,"male"),
+-- ("raheela",11,"female"),
+-- ("jawad",12,"male"),
+-- ("anila",13,"female"),
+-- ("sajjad",14,"male"),
+-- ("samiya",15,"female"),
+-- ("fawad",16,"male"),
+-- ("ruqaiya",17,"female"),
+-- ("hassnain",18,"male");
